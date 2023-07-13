@@ -4,7 +4,7 @@ This is a clone of the popular game 2048 developed using React.js and Sass. The 
 
 ## Demo
 
-You can play the game online by visiting the [2048 Game Demo]([https://example.com](https://frabjous-zabaione-8b2cf6.netlify.app/)).
+You can play the game online by visiting the [2048 Game Demo]([https://example.com](https://frabjous-zabaione-8b2cf6.netlify.app/).
 
 ## Features
 
